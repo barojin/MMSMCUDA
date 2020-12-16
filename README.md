@@ -11,6 +11,6 @@ cat o.out
 ```
 
 ## Output
-e.err contains the error message. 
-o.out contains all numbers of elements of result matrix.
+e.err contains the error message. <br>
+o.out contains all numbers of elements of result matrix.<br>
 ![Speed graph](/Speed comparison.png)
